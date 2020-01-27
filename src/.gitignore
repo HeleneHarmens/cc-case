@@ -1,0 +1,6 @@
+### Maven ###
+target/
+.idea/vcs.xml
+.idea/workspace.xml
+.DS_Store
+src/.DS_Store
